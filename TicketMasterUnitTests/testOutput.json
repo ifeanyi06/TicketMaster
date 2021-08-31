@@ -1,0 +1,9 @@
+{
+  "result": "1 2 Live 4 Nation Live 7 8 Live Nation 11 Live 13 14 LiveNation 16 17 Live 19 Nation",
+  "summary": {
+    "Live": "5",
+    "Nation": "3",
+    "LiveNation": "1",
+    "Integer": "11"
+  }
+}
